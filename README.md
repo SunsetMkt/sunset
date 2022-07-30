@@ -8,6 +8,10 @@ Sunset（余晖）是用于代表 @lwd-temp 的原创角色，由多位热心群
 
 ## 许可协议
 
+在未单独说明的情况下：
+
 Alpha版本的所有文件使用署名-非商业性使用-禁止演绎 4.0 国际(CC BY-NC-ND 4.0)许可协议，由于Sunset正处于早期开发阶段，设定可能会频繁变化，我们不建议在此时便进行二创。
 
 本作品采用知识共享 署名-非商业性使用-禁止演绎 4.0 国际 许可协议进行许可。要查看该许可协议，可访问 http://creativecommons.org/licenses/by-nc-nd/4.0/ 或者写信到 Creative Commons, PO Box 1866, Mountain View, CA 94042, USA。
+
+在特殊情况下，允许向作者请求单独的非CC授权。
