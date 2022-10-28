@@ -42,3 +42,19 @@
 (0.727) white_background
 (1.000) rating:safe
 ```
+
+### Basic
+`1girl, ahoge, long_hair, collarbone, blush, solo, bangs, glasses, looking_at_viewer, hair_between_eyes, eyebrows_visible_through_hair, black-framed_eyewear, closed_mouth, blonde_hair, `
+
+### Common
+`1girl, ahoge, medium_hair, collarbone, solo, bangs, black_eyes, glasses, looking_at_viewer, black-framed_eyewear, closed_mouth, blonde_hair, small_breasts, `
+
+### Common Clothes
+`blouse, jacket, `
+
+### According to doc 0.0.1-alpha
+`1girl, ahoge, medium_hair, collarbone, solo, bangs, black_eyes, glasses, looking_at_viewer, black-framed_eyewear, closed_mouth, blonde_hair, small_breasts, Brown plaid strappy skirt, labcoat, `
+
+`1girl, ahoge, medium_hair, ponytail, collarbone, solo, bangs, black_eyes, glasses, looking_at_viewer, black-framed_eyewear, closed_mouth, blonde_hair, small_breasts, brown plaid strappy skirt, labcoat, `
+
+`1girl, ahoge, medium_hair, ponytail, collarbone, solo, bangs, black_eyes, glasses, looking_at_viewer, black-framed_eyewear, closed_mouth, blonde_hair, small_breasts, skinny, brown plaid strappy skirt, labcoat, `
