@@ -58,3 +58,6 @@
 `1girl, ahoge, medium_hair, ponytail, collarbone, solo, bangs, black_eyes, glasses, looking_at_viewer, black-framed_eyewear, closed_mouth, blonde_hair, small_breasts, brown plaid strappy skirt, labcoat, `
 
 `1girl, ahoge, medium_hair, ponytail, collarbone, solo, bangs, black_eyes, glasses, looking_at_viewer, black-framed_eyewear, closed_mouth, blonde_hair, small_breasts, skinny, brown plaid strappy skirt, labcoat, `
+
+### Other
+`1girl, ahoge, medium hair, solo, bangs, black eyes, glasses, looking at viewer, black-framed eyewear, closed mouth, blonde hair, small breasts, shirt, labcoat, portrait, `
