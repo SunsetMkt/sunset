@@ -16,6 +16,8 @@ Negative: `nsfw,lowres,bad anatomy,bad hands,text,error,missing fingers,extra di
 
 `Steps: 20, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 7, Size: 1024x1024`
 
-Possible Positive: `masterpiece,best quality,1girl,portrait,upper body,day,bright face,Cinematic Lighting,available light,background light,simple background,looking at viewer,solo,small breasts,ahoge,bangs,medium hair,closed mouth,black eyes,glasses,black-framed eyewear,labcoat,black shirt,expressionless,blonde hair,professional,light smile,`
+#### For Blue Archive Flat Celluloid Style Fine-tune
 
-Possible Negative: `nsfw,lowres,error,worst quality,low quality,jpeg artifacts,signature,username,blurry,chibi,text,`
+Positive: `masterpiece,best quality,1girl,portrait,upper body,day,bright face,Cinematic Lighting,available light,background light,simple background,looking at viewer,solo,small breasts,ahoge,bangs,medium hair,closed mouth,black eyes,glasses,black-framed eyewear,labcoat,black shirt,expressionless,blonde hair,professional,light smile,`
+
+Negative: `nsfw,lowres,error,worst quality,low quality,jpeg artifacts,signature,username,blurry,chibi,text,backlighting,`
