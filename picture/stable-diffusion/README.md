@@ -18,6 +18,15 @@ Negative: `nsfw,lowres,bad anatomy,bad hands,text,error,missing fingers,extra di
 
 #### For Blue Archive Flat Celluloid Style Fine-tune
 
+_Always no light on face, don't know why._
+
 Positive: `masterpiece,best quality,1girl,portrait,upper body,day,bright face,Cinematic Lighting,available light,background light,white background,simple background,looking at viewer,solo,small breasts,ahoge,bangs,medium hair,closed mouth,black eyes,glasses,black-framed eyewear,labcoat,black shirt,expressionless,blonde hair,professional,light smile,`
 
 Negative: `nsfw,lowres,error,worst quality,low quality,jpeg artifacts,signature,username,blurry,chibi,text,backlighting,`
+
+_Better._
+
+```plaintext
+1girl,solo,portrait,(light on face),(soft lighting),labcoat,black shirt,glasses,(white background),simple background,looking at viewer,small breasts,ahoge,bangs,medium hair,closed mouth,black eyes,blonde hair,black-framed eyewear,light smile,masterpiece,best quality,highres,absurdres,
+Negative prompt: ((backlighting)),((dark)),nsfw,lowres,error,worst quality,low quality,jpeg artifacts,signature,username,blurry,chibi,text,
+```
