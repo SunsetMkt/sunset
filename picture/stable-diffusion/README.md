@@ -27,6 +27,6 @@ Negative: `nsfw,lowres,error,worst quality,low quality,jpeg artifacts,signature,
 _Better._
 
 ```plaintext
-1girl,solo,portrait,(bright),(light on face),(soft lighting),labcoat,black shirt,glasses,(white background),simple background,looking at viewer,small breasts,ahoge,bangs,medium hair,closed mouth,black eyes,blonde hair,black-framed eyewear,light smile,masterpiece,best quality,highres,absurdres,
-Negative prompt: ((backlighting)),((dark)),nsfw,lowres,error,worst quality,low quality,jpeg artifacts,signature,username,blurry,chibi,text,
+1girl,solo,portrait,(bright:1.5),(white background:1.5),(soft lighting:1.3),(light on face:1.1),labcoat,black shirt,glasses,simple background,looking at viewer,small breasts,ahoge,bangs,medium hair,closed mouth,black eyes,blonde hair,black-framed eyewear,light smile,masterpiece,best quality,highres,absurdres,
+Negative prompt: (shaded face:1.5),(shadow:1.3),(backlighting:1.2),(dark:1.1),nsfw,lowres,error,worst quality,low quality,jpeg artifacts,signature,username,blurry,chibi,text,
 ```
