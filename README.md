@@ -10,7 +10,9 @@ README 中已注明的弃用文件将不再被支持。
 
 ## 关于 Sunset
 
-Sunset（余晖）是一个原创角色，初始设定来自汇总意见。
+Sunset（余晖）是一个[原创角色](https://en.wiktionary.org/wiki/original_character)，初始设定来自汇总意见。
+
+Sunset 可被用于各种需要产品包装、插图、人性化指示标志的场合，或只是作为原创角色出现。
 
 ## 许可协议
 
