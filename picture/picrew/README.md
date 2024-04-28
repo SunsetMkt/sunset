@@ -1,6 +1,6 @@
 # picrew
 
-已弃用。
+由于授权限制及模板已无法使用，已弃用。
 
 基于[Picrew](https://picrew.me/image_maker/516657)的试作。
 
