@@ -34,7 +34,7 @@ Negative prompt: (shaded face:1.5),(shadow:1.3),(backlighting:1.2),(dark:1.1),ns
 _Mobile Wallpaper_
 
 ```plaintext
-1girl,original,solo,portrait,upper_body,labcoat,jeans,black shirt,glasses,hand_in_pocket,looking at viewer,small breasts,ahoge,bangs,medium hair,closed mouth,black eyes,blonde hair,black-framed eyewear,light smile,mechanical halo,halo,blue sky,blue archive sky,blue archive,best quality,masterpiece,highres,absurdres,
+1girl,original,solo,portrait,upper_body,labcoat,jeans,black shirt,glasses,hand_in_pocket,looking at viewer,small breasts,ahoge,bangs,medium hair,closed mouth,black eyes,blonde hair,black-framed eyewear,light smile,mechanical halo,halo,blue sky,best quality,masterpiece,highres,absurdres,
 Negative prompt: nsfw,lowres,error,worst quality,low quality,jpeg artifacts,signature,username,blurry,chibi,text,
-Steps: 20, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 7, Seed: 1023184137, Size: 864x1920, Model hash: 95affd8c8f, Model: baxlBlueArchiveFlatCelluloidStyleFineTune_xlv3, Clip skip: 2, Version: v1.9.3
+Steps: 20, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 7, Seed: 1148340807, Size: 864x1920, Model hash: 95affd8c8f, Model: baxlBlueArchiveFlatCelluloidStyleFineTune_xlv3, Clip skip: 2, Version: v1.9.3
 ```
